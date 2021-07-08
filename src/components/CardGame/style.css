@@ -1,0 +1,14 @@
+.card-game {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    width: 130px;
+    height: 160px;
+    background-color: var(--color-alura);
+    border-radius: 6px;
+    box-shadow: 0 0 4px 0;
+}
+
+.img-game {
+    width: 85px;
+}
